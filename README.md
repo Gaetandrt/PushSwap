@@ -5,7 +5,7 @@
 
 ## Qu'est que le PushSwap ?
 
-    Le PushSwap est un programme qui permet de trier une suite de nombres à partir d définies.
+Le PushSwap est un programme qui permet de trier une suite de nombres à partir d'opérations définies.
 L'algorithme de trie choisies ici est un Bubble sort.
 
 ### Compétences travaillées
